@@ -10,6 +10,9 @@ docs_dir: docs
 
 theme:
   name: material
+  palette:
+    scheme: default
+    primary: black
   features:
     - search.suggest
     - search.highlight
