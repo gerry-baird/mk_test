@@ -1,4 +1,13 @@
 site_name: Cool Project Docs
+site_url: https://gerry-baird.github.io/mk_test
+site_author: Gerry
+
+# Repository
+repo_name: mk_test
+repo_url: https://github.com/gerry-baird/mk_test
+edit_uri: edit/master/docs
+docs_dir: docs
+
 theme:
   name: material
   features:
