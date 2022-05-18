@@ -21,7 +21,6 @@ plugins:
   - search
 nav:
   - Introduction: "index.md"
-  - Tutorial:
-      - Tutorial Section: "pages/tutorial/tutorial.md"
+  - Day 1: "pages/day1.md"
   - About: "pages/about.md"
   - FAQ: "pages/faq.md"
