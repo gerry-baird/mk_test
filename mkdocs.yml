@@ -1,0 +1,15 @@
+site_name: Cool Project Docs
+theme:
+  name: material
+  features:
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+plugins:
+  - search
+nav:
+  - Introduction: "index.md"
+  - Tutorial:
+      - Tutorial Section: "pages/tutorial/tutorial.md"
+  - About: "pages/about.md"
+  - FAQ: "pages/faq.md"
